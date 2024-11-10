@@ -27,3 +27,4 @@ redis:6-alpine
 semitechnologies/weaviate:1.19.0
 tensorchord/pgvecto-rs:pg16-v0.3.0
 ubuntu/squid:latest
+python:3.12.7-bullseye
